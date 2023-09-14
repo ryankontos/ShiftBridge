@@ -1,0 +1,6 @@
+node_modules/
+data/credentials.json
+data/key.json
+awsconfig.json
+credentials
+Archive.zip
